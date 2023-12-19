@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Poker_backgroung.png</file>
+        <file>table.png</file>
+        <file>PNGBUY-Lionel-Messi-2.jpg</file>
+        <file>realistic-isolated-green-poker-table-for-decoration-vector.jpg</file>
+        <file>background_main_window.jpg</file>
+    </qresource>
+    <qresource prefix="/cards"/>
+</RCC>
